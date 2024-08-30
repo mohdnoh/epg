@@ -4,10 +4,14 @@
     <display-name lang="en">Account Expired Chat Seller</display-name>
     <icon src="https://i.ibb.co/48W5cSK/Pngtree-expired-icon-6633686.png" />
     <url>http://www.astro.com.my</url>
-<programme start="{start}" stop="{stop}" channel="kuro.1">
-  <title>Account Expired(Sila Renew Di Kuro Digital Malaysia)</title>
-    <desc lang="en">Pastikan anda hanya renew bersama reseller yang berdaftar, sebarang masalah boleh diadukan didalam group support Kuro Digital. Terima kasih kerana telah support kami.</desc>
-    <category lang="en">Information</category>
-    <icon src="https://i.ibb.co/48W5cSK/Pngtree-expired-icon-6633686.png" />
+  <programme start="20240829020000 +0000" stop="20240829020500 +0000" channel="kuro.1">
+    <title lang="en">(L) Dunia 10</title>
+    <desc lang="en">Berita dalam dan luar Negara.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV1.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
   </programme>
 </tv>
