@@ -6,9 +6,9 @@
     <url>http://www.astro.com.my</url>
    </channel>
 <programme start="{start}" stop="{stop}" channel="kuro.1">
-		<title>Account Expired(Sila Renew Di Kuro Digital Malaysia)</title>
-		<desc lang="en">Pastikan anda hanya renew bersama reseller yang berdaftar, sebarang masalah boleh diadukan didalam group support Kuro Digital. Terima kasih kerana telah support kami.</desc>
-		<category lang="en">Information</category>
-		<icon src="https://i.ibb.co/48W5cSK/Pngtree-expired-icon-6633686.png" />
+    <title>Account Expired(Sila Renew Di Kuro Digital Malaysia)</title>
+      <desc lang="en">Pastikan anda hanya renew bersama reseller yang berdaftar, sebarang masalah boleh diadukan didalam group support Kuro Digital. Terima kasih kerana telah support kami.</desc>
+      <category lang="en">Information</category>
+      <icon src="https://i.ibb.co/48W5cSK/Pngtree-expired-icon-6633686.png" />
   </programme>
 </tv>
