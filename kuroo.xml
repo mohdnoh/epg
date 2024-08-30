@@ -10,8 +10,5 @@
     <category lang="en">News</category>
     <category lang="en">Others (TV Shows)</category>
     <icon src="https://aqfadtv.xyz/images/TV1.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
   </programme>
 </tv>
